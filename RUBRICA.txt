@@ -38,5 +38,5 @@ características:
 
 - Crear alguna funcionalidad en entre las siguientes, en el Level
 Blueprint:
-	Restart Game
+	Restart Game (R)
 
